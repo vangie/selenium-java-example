@@ -1,0 +1,5 @@
+runtime: java8
+tasks:
+  - shell: |-
+      curl -L https://fc-demo-public.oss-cn-hangzhou.aliyuncs.com/fun/examples/chromedriver.tar.gz | tar -zxf -;
+      curl -L https://fc-demo-public.oss-cn-hangzhou.aliyuncs.com/fun/examples/headless-chromium.tar.gz | tar -zxf -;

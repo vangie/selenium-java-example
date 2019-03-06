@@ -1,0 +1,4 @@
+{
+    "name": "selenium-java-example",
+    "copyOnlyPaths": [ "src", "pom.xml" , ".DS_Store", "chromedriver", "headless-chromium", ".idea", "lib"]
+}
